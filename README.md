@@ -16,6 +16,7 @@ The algorithm utilizes a simple backtracking search and requires only three colo
 4. Navigate to the directory where the file is saved.
 5. Run the script using the following command:
    ```bash
-   python map_coloring.py
+   python australia-map-coloring-csp.py
+   ```
 
    
